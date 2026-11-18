@@ -1,0 +1,15 @@
+/* all common css start */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+a{
+    text-decoration: none;
+}
+ol,ul,li{
+    list-style-type: none;
+}
+
+/* all common css End */
